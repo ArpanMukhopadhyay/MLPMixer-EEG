@@ -8,10 +8,10 @@ $ pip install mlp-mixer-pytorch
 ```
 ## Usage (run these files in order) 
 
-iterate.m
-convtest.m
-datalabel.m
-test.py
+1.iterate.m
+2.convtest.m
+3.datalabel.m
+4.test.py
 
 
 Rectangular image
